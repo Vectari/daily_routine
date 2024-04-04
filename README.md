@@ -1,1 +1,1 @@
-# BOOKSTATS - Open Library API
+# Daily Routine APP in React with local Backend
